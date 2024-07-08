@@ -1,14 +1,15 @@
 :orphan:
+:hidefeedback: page
 
 .. meta::
    :robots: noindex
- 
+
 :template: openapi
 :title: OpenAPI Styling Preview
 
 .. default-domain:: mongodb
 
-.. banner:: 
+.. banner::
    :variant: info
 
    This page is intended for previewing OpenAPI spec files with the styling of MongoDB's documentation. The contents may not reflect actual endpoints or services.
